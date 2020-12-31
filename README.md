@@ -1,6 +1,6 @@
 ### Hi there 👋
 <b><h1>I am Kartik Arora</h1></b>
- 📫 How to reach me: kartik1046@gmail.com
+ 📫Reach me through: kartik1046@gmail.com
 <!--
 **kartikarora1/kartikarora1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
