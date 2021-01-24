@@ -1,7 +1,7 @@
 ### Hi there 👋
 <b><h1>I am Kartik Arora</h1></b>
-I aspire to become an IT professional and stand out in the field of Data Science with a blend of perfection , knowledge and experience.
-I am  currently learning Python|Numpy|Pandas|ML|Data Cleansing
+<h3>I aspire to become an IT professional and stand out in the field of Data Science with a blend of perfection , knowledge and experience.</h3> <hr>
+<h3>I am  currently learning Python|Numpy|Pandas|ML|Data Cleansing</h3><hr>
  📫Reach me through: kartik1046@gmail.com
 <!--
 **kartikarora1/kartikarora1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
